@@ -1,0 +1,7 @@
+!pip install feedparser
+!pip install duckduckgo-search
+!pip install ftfy html5lib
+!pip install sentence-transformers scikit-learn numpy tqdm
+!pip install chromadb
+!pip install langchain langgraph google-generativeai
+
